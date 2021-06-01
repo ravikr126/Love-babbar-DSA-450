@@ -47,3 +47,5 @@ vector<int> find(int arr[], int n, int x)
     v.push_back(last);
     return v;
 }
+
+//2nd method is to use binary search for finding index and then proceed
