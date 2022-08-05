@@ -1,4 +1,4 @@
-Union of two arrays
+//Union of two arrays
 
 //Initial template for C++
 
